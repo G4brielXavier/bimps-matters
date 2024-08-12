@@ -25,7 +25,7 @@ Para usar Bimps, é necessário saber alguns comandos para o uso:
 => helpCmd
 ```
 
-Use estes commandos para ver as informações de cada comando e suas informações para começar.
+Use estes commandos para ver as informações de cada comando e suas informações para começar. ou <a href="">Clique Aqui</a>
 
 ## 📫 Contribuindo para Bimps
 
