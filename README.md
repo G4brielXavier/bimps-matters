@@ -32,9 +32,9 @@ If you want contribute, do this steps:
 ```
 git checkout -b bimps
 git commit -m "bimps-cmt"
+
 git push origin https://github.com/G4brielXavier/bimps-matters
 ```
 ##### 3 - Create a pull request
 
 Alternatively, see the GitHub documentation at [How to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
