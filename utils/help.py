@@ -7,6 +7,9 @@ commands = {
     "updateTable": "update info of matter in table",
     "setCurrentBim": "set current bim to calc",
     "currentBim": "view current bim",
+    "bestMatter": "show matter as best point of list",
+    "filterStatus": "filter the matters according as your status",
+    "worseMatter": "show matter as worse point of list",
     "cls": "clear terminal",
     "clear": "clear terminal"
 }

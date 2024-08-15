@@ -1,4 +1,5 @@
 def inp_cmd():
-    cmd = input('=> ')
+    cmd = input('+- ')
     return cmd
+
 

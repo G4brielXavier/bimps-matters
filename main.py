@@ -10,7 +10,7 @@ print(f'{appBimps.name} [black]v{appBimps.version}[/black]')
 print(f'by {appBimps.creator}')
 print()
 print('For more informations in "[u]https://github.com/G4brielXavier/BIMPS[/u]"')
-
+    
 print()
 
 while True:

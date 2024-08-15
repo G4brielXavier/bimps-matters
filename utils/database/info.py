@@ -2,9 +2,9 @@ from dataclasses import dataclass
 
 bimps = {
     "name": "BIMPS",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "creator": "Gabriel Xavier (Dotket)",
-    "release": "2024-08-11"
+    "release": "2024-08-14"
 }
 
 @dataclass
