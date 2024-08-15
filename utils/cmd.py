@@ -9,7 +9,6 @@ from os import system
 from time import sleep
 
 from utils.help import commands
-
 import json
 
 console = Console()
