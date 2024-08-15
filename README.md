@@ -1,22 +1,17 @@
 # Bimps
-Eu desenvolvi este sistema para facilitar a leitura dos meus pontos escolares.
+I did this program to view my points in school, 
+This program was created to own experience
 
-#### Area inicial
-<img src="Bimps/image-1"></img>
+## 😶‍🌫️Start Bimps in Terminal
+to Execute, use this in terminal
+```
+python .\main.py
+```
 
-#### Veja suas matérias escolares em forma de tabela
-<img src="Bimps/image-2"></img>
 
-## Ajustes e Melhorias para 0.2.1
+## 📖 Using Bimps
 
-- [ ] Filtrar Materias
-- [ ] Ordem crescente e descrescente
-- [ ] Melhores Notas e Piores Notas
-- [ ] Adicionar Matérias
-
-## 📖 Usando Bimps
-
-Para usar Bimps, é necessário saber alguns comandos para o uso:
+For use Bimps, you need knows some commands needed
 
 ```
 => help
@@ -25,20 +20,21 @@ Para usar Bimps, é necessário saber alguns comandos para o uso:
 => helpCmd
 ```
 
-Use estes commandos para ver as informações de cada comando e suas informações para começar. ou <a href="">Clique Aqui</a>
+Use these commands to see information about each command and its starting information. or <a href="">Click here</a>
 
-## 📫 Contribuindo para Bimps
 
-Caso queira contribuir com Bimps, siga estas etapas:
+## 📫 Contributing for Bimps
 
-##### 1 - Faça as alterações
-##### 2 - Comandos abaixo
+If you want contribute, do this steps:
+
+##### 1 - Do changes
+##### 2 - Commands below
 ```
 git checkout -b bimps
 git commit -m "bimps-cmt"
 git push origin https://github.com/G4brielXavier/bimps-matters
 ```
-##### 3 - Crie a solicitação Pull
+##### 3 - Create a pull request
 
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+Alternatively, see the GitHub documentation at [How to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
